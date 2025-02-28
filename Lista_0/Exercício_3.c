@@ -6,9 +6,7 @@ escreva: o valor de um quilowatt e o valor da conta de energia do usuário.*/
 # include <stdio.h>
 int main() {
     
-    float min_wage;
-    float kilowat_price;
-    float gasto;
+    float min_wage, kilowat_price, gasto;
     printf("Digite o salario minimo: \n");
     scanf("%f", &min_wage);
     kilowat_price = min_wage/10.0;
