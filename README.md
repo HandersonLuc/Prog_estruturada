@@ -3,9 +3,14 @@ Here i'll work on:
   1. Conditional Structure
   2. repetition structure
   3. Functions
+  4. recursion
+  5. vectors
+
 
 Lista_0: Basic
 
 Lista_1: Topic 1
 
 Lista_2: Topic 2
+
+lista_3: topic 3, 4, 5
